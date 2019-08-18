@@ -1,0 +1,5 @@
+Python: Sachen zum Merken
+
+- bei jeder Memberfunktion "self" als erstes Argument
+- Objekte werden als Zeiger gespeichert und Zuweisung (jener Zeiger) ist by-value
+- unäre Operatoren ++, -- existieren nicht
